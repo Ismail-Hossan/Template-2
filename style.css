@@ -1,0 +1,257 @@
+h1, h2, h3, h4, h5, h6{font-weight:normal;margin-top:2px;margin-bottom:10px;}
+p{line-height: 150%;}
+.container_full {width: 100%; height: auto;background:#ddd;}
+.container {width:960px; margin:0 auto; display:block ;background:#fff;}
+.footer {width:960px; margin:0 auto; display:block }
+.floatleft{float:left}
+.floatright{float:right}
+.fix{overflow:hidden;}
+.aligncenter{display:block;margin:0 auto;}
+
+
+.heder{
+	
+}
+.logo{
+	width:480px;
+	min-height:45px;
+	background:black;border-bottom:4px solid red;
+}
+.logo h2{
+	color:red;
+	font-size:29px;
+	padding:9px;
+}
+.logo p{
+	color:#ddd;
+	padding:11px;
+}
+.search_bar{
+	width:480px;
+	min-height:131px;
+	background:black;border-bottom:4px solid red;
+}
+	
+
+
+.search_bar{padding-top:0; position:relative; margin-bottom:30px;margin-top;margin-right:0px;}
+.search_bar input{ width:176px; height: 31px; border:1px solid #ababab; border-radius:5px; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box; padding:0 10px; background:#fff; font:normal 14px Arial, Helvetica, sans-serif; color:#1F5A9D; margin-top:91px;    margin-left: 299px;}
+.search_bar input[type="submit"] { width:27px; height:27px; cursor:pointer; text-indent:-999999px; border:none;  background:url(img/srchIcon.png) no-repeat; position:absolute; right:0px; top:8px; background-size: 17px 17px;}
+
+
+.nav ul{
+	
+	
+		
+}
+.nav ul li{
+    list-style-type:none;
+	float:left;
+}
+.nav ul li a{
+	text-decoration:none;
+	font-size:20px;
+	padding:45px;
+	color:blue;
+}
+
+.nav ui li a:hover{
+	background-color:orange;
+	
+}
+.content_1 {
+    width: 258px;
+    border-top: 4px solid red;
+    height: 292px;
+    background: #106469;
+
+}
+.content_1 img{
+    width: 39px;
+    height: 31px;
+    margin-top: 11px;
+    padding: 5px;
+}
+.content_1 h2{
+	    margin-left: 58px;
+         margin-top: -43px;
+         color: red;
+}
+.content_1 p {
+    color: #100000f5;
+    padding: 5px;
+    background: #179489;
+    border-left: 3px solid red;
+	padding:13px;
+	font-family:arial;
+}
+.content_2{
+	    width: 517px;
+    padding: -25px;
+    margin-bottom: 0px;
+    min-height: 124px;
+    background: #fff;
+    padding: 9px;		
+}
+.content_2 img {
+    width: 702px;
+    height: 414px;
+    margin-left: -176px;
+    margin-top: -9px;
+    border-top: 4px solid red;
+}
+.middle1 {
+    width: 57px;
+    margin-left: 97px;
+}
+.middle2 {
+        width: 576px;
+    margin-top: -19px;
+}
+.middle2 p{
+	font-family:arial;
+	font-size:15px;
+}
+.middle3{
+	width:220px;
+}
+
+.section1{
+	width:300px;
+}
+.section1 img{
+     width: 300px;
+}
+.section1 h2{
+	font-size:27px;
+	color:red;
+	padding:7px;
+}
+.section1 p{
+   color: black;
+    font-size: 19px;
+    padding: 5px;
+    background: orange;
+    border-left: 2px solid #0100ff;
+    margin-top: -5px;
+}
+
+.section2{
+    width: 300px;
+    margin-top: 14px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.section2 img{
+     width: 300px;
+
+}
+.section2 h2{
+	font-size:27px;
+	color:red;
+
+}
+.section2 p{
+	color: black;
+    font-size: 19px;
+    padding: 5px;
+    background: orange;
+    border-left: 2px solid #0100ff;
+	    margin-top: -5px;
+	font-size:19px;
+}
+.section3{
+	width:300px;
+	 margin-top: 14px;
+}
+.section3 img{
+     width: 300px;
+}
+.section3 h2{
+	font-size:27px;
+	color:red;
+
+}
+.section3 p{
+	color: black;
+    font-size: 19px;
+    padding: 5px;
+    background: orange;
+    border-left: 2px solid #0100ff;
+	    margin-top: -5px;
+}
+.footer{
+	padding:8px;
+	text-align:center;
+	background:black;
+	color:red;
+}
+.contact{
+	width:330px;
+}
+.contact h2{
+	color:red;
+	padding:5px;
+	
+}
+.contact p{
+	color:green;
+	margin-left:5px;
+}
+.contact input{
+	color:red;
+	background:#cbefea;
+	margin-left:5px;
+
+}
+.flow{
+	width:330px;
+	margin-top:-331px;
+}
+.flow h2{
+	color:red;
+	margin-left:44px;
+}
+.flow ul li a img{
+	width:90px;
+	height:72px;
+	
+}
+.flow ul li{
+	list-style-type:none;
+	
+}
+
+.servic{
+	width:330px;    
+margin-top: -337px;
+	
+} 
+.servic h2{
+	color:red;
+	margin-left:21px;
+}
+.servic ul li a{
+	text-decoration:none;
+	font-size:19px;
+	color:green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
